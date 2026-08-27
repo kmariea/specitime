@@ -23,7 +23,7 @@ run_hrm_python <- function(
   
   data_file <- normalizePath(
     data_file,
-    winslash = "\\",
+    winslash = "/",
     mustWork = TRUE
   )
   
@@ -32,7 +32,7 @@ run_hrm_python <- function(
   
   output_file <- normalizePath(
     output_file,
-    winslash = "\\",
+    winslash = "/",
     mustWork = FALSE
   )
   
@@ -53,60 +53,48 @@ run_hrm_python <- function(
   
   response_file <- normalizePath(
     response_file,
-    winslash = "\\",
+    winslash = "/",
     mustWork = TRUE
   )
   
   python_script <- normalizePath(
     "bootmode_v3.py",
-    winslash = "\\",
+    winslash = "/",
     mustWork = TRUE
   )
   
-  python_exe <- unname(Sys.which("python"))
+  python_commands <- if (.Platform$OS.type == "windows") {
+    c("python", "python3")
+  } else {
+    c("python3", "python")
+  }
+
+  python_locations <- unname(Sys.which(python_commands))
+  python_exe <- python_locations[python_locations != ""][1]
   
-  if (python_exe == "") {
-    stop("Python could not be found.")
+  if (length(python_exe) == 0 || is.na(python_exe)) {
+    stop("Python 3 could not be found on the server.")
   }
   
   python_exe <- normalizePath(
     python_exe,
-    winslash = "\\",
+    winslash = "/",
     mustWork = TRUE
-  )
-  
-  # Temporary Windows batch file
-  batch_file <- tempfile(fileext = ".bat")
-  
-  writeLines(
-    c(
-      "@echo off",
-      paste0(
-        '"', python_exe, '" ',
-        '"', python_script, '" ',
-        '< "', response_file, '"'
-      )
-    ),
-    batch_file
   )
   
   on.exit(
     unlink(c(
       data_file,
       response_file,
-      output_file,
-      batch_file
+      output_file
     )),
     add = TRUE
   )
   
   result <- system2(
-    command = "cmd.exe",
-    args = c(
-      "/d",
-      "/c",
-      shQuote(batch_file)
-    ),
+    command = python_exe,
+    args = shQuote(python_script),
+    stdin = response_file,
     stdout = TRUE,
     stderr = TRUE
   )
