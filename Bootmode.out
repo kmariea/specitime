@@ -1,0 +1,1225 @@
+------------------Data File: C:\Users\tut44220\AppData\Local\Temp\RtmpacP9eF\file20e9815173e00.txt----------------
+
+
+===== Entire dataset =====
+Datapoints = 108
+Outer bootstrap iterations = 100
+Inner bootstrap iterations per outer sample = 500
+
+RESULTS:
+ Mode = 1.1519
+Bootstrap Std. Error of Modes = 0.544953
+95% Confidence Interval (range) = 0.385986 - 2.76889
+
+STATISTICS OF ORIGINAL DATA (for reference):
+ Mean = 42.1928
+ Standard Error of the Mean = 6.65982
+ Median = 14.7134
+ Half-Range Mode = 0.488726
+
+
+EXPLANATION:
+The "Mode" is the mean of the bootstrapped half-range modes (M-HRMB). The
+"Standard Error of the Mode" is a bootstrap standard error, calculated by
+taking the standard deviation of the bootstrapped mode estimates. During the
+error calculation, higher-level bootstrap iterations resample the original
+data, and lower-level bootstrap iterations treat each of those higher-level
+bootstrapped data sets as a starting point for lower-level resampling to
+calculate the individual M-HRMB estimates. The "95% confidence interval" range
+accounts for both symmetric and asymmetric distribution, as it specifies the
+range between the 2.5% and 97.5% bootstrap values generated.
+
+For application of this program, and for citation, refer to:
+Hedges, S. B. and P. Shah. 2003. Comparison of mode estimation methods and
+application in molecular clock analysis. BMC Bioinformatics 4:xx.
+
+------------------Data File: C:\Users\tut44220\AppData\Local\Temp\RtmpacP9eF\file20e9816ab38d2.txt----------------
+
+
+===== Entire dataset =====
+Datapoints = 108
+Outer bootstrap iterations = 100
+Inner bootstrap iterations per outer sample = 500
+
+RESULTS:
+ Mode = 1.06952
+Bootstrap Std. Error of Modes = 0.532507
+95% Confidence Interval (range) = 0.445438 - 2.72233
+
+STATISTICS OF ORIGINAL DATA (for reference):
+ Mean = 42.1928
+ Standard Error of the Mean = 6.65982
+ Median = 14.7134
+ Half-Range Mode = 0.488726
+
+
+EXPLANATION:
+The "Mode" is the mean of the bootstrapped half-range modes (M-HRMB). The
+"Standard Error of the Mode" is a bootstrap standard error, calculated by
+taking the standard deviation of the bootstrapped mode estimates. During the
+error calculation, higher-level bootstrap iterations resample the original
+data, and lower-level bootstrap iterations treat each of those higher-level
+bootstrapped data sets as a starting point for lower-level resampling to
+calculate the individual M-HRMB estimates. The "95% confidence interval" range
+accounts for both symmetric and asymmetric distribution, as it specifies the
+range between the 2.5% and 97.5% bootstrap values generated.
+
+For application of this program, and for citation, refer to:
+Hedges, S. B. and P. Shah. 2003. Comparison of mode estimation methods and
+application in molecular clock analysis. BMC Bioinformatics 4:xx.
+
+------------------Data File: C:\Users\tut44220\AppData\Local\Temp\RtmpacP9eF\file20e98f317a1c.txt----------------
+
+
+===== Entire dataset =====
+Datapoints = 108
+Outer bootstrap iterations = 100
+Inner bootstrap iterations per outer sample = 500
+
+RESULTS:
+ Mode = 1.01028
+Bootstrap Std. Error of Modes = 0.516612
+95% Confidence Interval (range) = 0.474712 - 2.54092
+
+STATISTICS OF ORIGINAL DATA (for reference):
+ Mean = 42.1928
+ Standard Error of the Mean = 6.65982
+ Median = 14.7134
+ Half-Range Mode = 0.488726
+
+
+EXPLANATION:
+The "Mode" is the mean of the bootstrapped half-range modes (M-HRMB). The
+"Standard Error of the Mode" is a bootstrap standard error, calculated by
+taking the standard deviation of the bootstrapped mode estimates. During the
+error calculation, higher-level bootstrap iterations resample the original
+data, and lower-level bootstrap iterations treat each of those higher-level
+bootstrapped data sets as a starting point for lower-level resampling to
+calculate the individual M-HRMB estimates. The "95% confidence interval" range
+accounts for both symmetric and asymmetric distribution, as it specifies the
+range between the 2.5% and 97.5% bootstrap values generated.
+
+For application of this program, and for citation, refer to:
+Hedges, S. B. and P. Shah. 2003. Comparison of mode estimation methods and
+application in molecular clock analysis. BMC Bioinformatics 4:xx.
+
+------------------Data File: C:\Users\tut44220\AppData\Local\Temp\RtmpacP9eF\file20e9866a36f19.txt----------------
+
+
+===== Entire dataset =====
+Datapoints = 108
+Outer bootstrap iterations = 100
+Inner bootstrap iterations per outer sample = 500
+
+RESULTS:
+ Mode = 1.18079
+Bootstrap Std. Error of Modes = 0.648072
+95% Confidence Interval (range) = 0.482395 - 3.61717
+
+STATISTICS OF ORIGINAL DATA (for reference):
+ Mean = 42.1928
+ Standard Error of the Mean = 6.65982
+ Median = 14.7134
+ Half-Range Mode = 0.488726
+
+
+EXPLANATION:
+The "Mode" is the mean of the bootstrapped half-range modes (M-HRMB). The
+"Standard Error of the Mode" is a bootstrap standard error, calculated by
+taking the standard deviation of the bootstrapped mode estimates. During the
+error calculation, higher-level bootstrap iterations resample the original
+data, and lower-level bootstrap iterations treat each of those higher-level
+bootstrapped data sets as a starting point for lower-level resampling to
+calculate the individual M-HRMB estimates. The "95% confidence interval" range
+accounts for both symmetric and asymmetric distribution, as it specifies the
+range between the 2.5% and 97.5% bootstrap values generated.
+
+For application of this program, and for citation, refer to:
+Hedges, S. B. and P. Shah. 2003. Comparison of mode estimation methods and
+application in molecular clock analysis. BMC Bioinformatics 4:xx.
+
+------------------Data File: C:\Users\tut44220\AppData\Local\Temp\RtmpacP9eF\file20e984f401ed0.txt----------------
+
+
+===== Entire dataset =====
+Datapoints = 108
+Outer bootstrap iterations = 100
+Inner bootstrap iterations per outer sample = 500
+
+RESULTS:
+ Mode = 1.10877
+Bootstrap Std. Error of Modes = 0.462407
+95% Confidence Interval (range) = 0.449612 - 2.18359
+
+STATISTICS OF ORIGINAL DATA (for reference):
+ Mean = 42.1928
+ Standard Error of the Mean = 6.65982
+ Median = 14.7134
+ Half-Range Mode = 0.488726
+
+
+EXPLANATION:
+The "Mode" is the mean of the bootstrapped half-range modes (M-HRMB). The
+"Standard Error of the Mode" is a bootstrap standard error, calculated by
+taking the standard deviation of the bootstrapped mode estimates. During the
+error calculation, higher-level bootstrap iterations resample the original
+data, and lower-level bootstrap iterations treat each of those higher-level
+bootstrapped data sets as a starting point for lower-level resampling to
+calculate the individual M-HRMB estimates. The "95% confidence interval" range
+accounts for both symmetric and asymmetric distribution, as it specifies the
+range between the 2.5% and 97.5% bootstrap values generated.
+
+For application of this program, and for citation, refer to:
+Hedges, S. B. and P. Shah. 2003. Comparison of mode estimation methods and
+application in molecular clock analysis. BMC Bioinformatics 4:xx.
+
+------------------Data File: C:\Users\tut44220\AppData\Local\Temp\RtmpacP9eF\file20e98733c1e84.txt----------------
+
+
+===== Entire dataset =====
+Datapoints = 108
+Outer bootstrap iterations = 100
+Inner bootstrap iterations per outer sample = 500
+
+RESULTS:
+ Mode = 1.13479
+Bootstrap Std. Error of Modes = 0.684944
+95% Confidence Interval (range) = 0.400218 - 2.93931
+
+STATISTICS OF ORIGINAL DATA (for reference):
+ Mean = 42.1928
+ Standard Error of the Mean = 6.65982
+ Median = 14.7134
+ Half-Range Mode = 0.488726
+
+
+EXPLANATION:
+The "Mode" is the mean of the bootstrapped half-range modes (M-HRMB). The
+"Standard Error of the Mode" is a bootstrap standard error, calculated by
+taking the standard deviation of the bootstrapped mode estimates. During the
+error calculation, higher-level bootstrap iterations resample the original
+data, and lower-level bootstrap iterations treat each of those higher-level
+bootstrapped data sets as a starting point for lower-level resampling to
+calculate the individual M-HRMB estimates. The "95% confidence interval" range
+accounts for both symmetric and asymmetric distribution, as it specifies the
+range between the 2.5% and 97.5% bootstrap values generated.
+
+For application of this program, and for citation, refer to:
+Hedges, S. B. and P. Shah. 2003. Comparison of mode estimation methods and
+application in molecular clock analysis. BMC Bioinformatics 4:xx.
+
+------------------Data File: C:\Users\tut44220\AppData\Local\Temp\RtmpacP9eF\file20e9824af7fe6.txt----------------
+
+
+===== Entire dataset =====
+Datapoints = 108
+Outer bootstrap iterations = 100
+Inner bootstrap iterations per outer sample = 500
+
+RESULTS:
+ Mode = 1.10514
+Bootstrap Std. Error of Modes = 0.577528
+95% Confidence Interval (range) = 0.464486 - 2.49546
+
+STATISTICS OF ORIGINAL DATA (for reference):
+ Mean = 42.1928
+ Standard Error of the Mean = 6.65982
+ Median = 14.7134
+ Half-Range Mode = 0.488726
+
+
+EXPLANATION:
+The "Mode" is the mean of the bootstrapped half-range modes (M-HRMB). The
+"Standard Error of the Mode" is a bootstrap standard error, calculated by
+taking the standard deviation of the bootstrapped mode estimates. During the
+error calculation, higher-level bootstrap iterations resample the original
+data, and lower-level bootstrap iterations treat each of those higher-level
+bootstrapped data sets as a starting point for lower-level resampling to
+calculate the individual M-HRMB estimates. The "95% confidence interval" range
+accounts for both symmetric and asymmetric distribution, as it specifies the
+range between the 2.5% and 97.5% bootstrap values generated.
+
+For application of this program, and for citation, refer to:
+Hedges, S. B. and P. Shah. 2003. Comparison of mode estimation methods and
+application in molecular clock analysis. BMC Bioinformatics 4:xx.
+
+------------------Data File: C:\Users\tut44220\AppData\Local\Temp\RtmpacP9eF\file20e9843a25167.txt----------------
+
+
+===== Entire dataset =====
+Datapoints = 4453
+Outer bootstrap iterations = 100
+Inner bootstrap iterations per outer sample = 500
+
+RESULTS:
+ Mode = 14.3571
+Bootstrap Std. Error of Modes = 2.22716
+95% Confidence Interval (range) = 10.427 - 18.516
+
+STATISTICS OF ORIGINAL DATA (for reference):
+ Mean = 86.4594
+ Standard Error of the Mean = 1.28797
+ Median = 56.5
+ Half-Range Mode = 9.5
+
+
+EXPLANATION:
+The "Mode" is the mean of the bootstrapped half-range modes (M-HRMB). The
+"Standard Error of the Mode" is a bootstrap standard error, calculated by
+taking the standard deviation of the bootstrapped mode estimates. During the
+error calculation, higher-level bootstrap iterations resample the original
+data, and lower-level bootstrap iterations treat each of those higher-level
+bootstrapped data sets as a starting point for lower-level resampling to
+calculate the individual M-HRMB estimates. The "95% confidence interval" range
+accounts for both symmetric and asymmetric distribution, as it specifies the
+range between the 2.5% and 97.5% bootstrap values generated.
+
+For application of this program, and for citation, refer to:
+Hedges, S. B. and P. Shah. 2003. Comparison of mode estimation methods and
+application in molecular clock analysis. BMC Bioinformatics 4:xx.
+
+------------------Data File: C:\Users\tut44220\AppData\Local\Temp\RtmpacP9eF\file20e9825dc2ccd.txt----------------
+
+
+===== Entire dataset =====
+Datapoints = 4453
+Outer bootstrap iterations = 100
+Inner bootstrap iterations per outer sample = 500
+
+RESULTS:
+ Mode = 14.1314
+Bootstrap Std. Error of Modes = 2.46534
+95% Confidence Interval (range) = 10.055 - 20.045
+
+STATISTICS OF ORIGINAL DATA (for reference):
+ Mean = 86.4594
+ Standard Error of the Mean = 1.28797
+ Median = 56.5
+ Half-Range Mode = 9.5
+
+
+EXPLANATION:
+The "Mode" is the mean of the bootstrapped half-range modes (M-HRMB). The
+"Standard Error of the Mode" is a bootstrap standard error, calculated by
+taking the standard deviation of the bootstrapped mode estimates. During the
+error calculation, higher-level bootstrap iterations resample the original
+data, and lower-level bootstrap iterations treat each of those higher-level
+bootstrapped data sets as a starting point for lower-level resampling to
+calculate the individual M-HRMB estimates. The "95% confidence interval" range
+accounts for both symmetric and asymmetric distribution, as it specifies the
+range between the 2.5% and 97.5% bootstrap values generated.
+
+For application of this program, and for citation, refer to:
+Hedges, S. B. and P. Shah. 2003. Comparison of mode estimation methods and
+application in molecular clock analysis. BMC Bioinformatics 4:xx.
+
+------------------Data File: C:\Users\tut44220\AppData\Local\Temp\RtmpacP9eF\file20e985a2717b9.txt----------------
+
+
+===== Entire dataset =====
+Datapoints = 4453
+Outer bootstrap iterations = 100
+Inner bootstrap iterations per outer sample = 500
+
+RESULTS:
+ Mode = 14.0046
+Bootstrap Std. Error of Modes = 2.36884
+95% Confidence Interval (range) = 10.611 - 19.129
+
+STATISTICS OF ORIGINAL DATA (for reference):
+ Mean = 86.4594
+ Standard Error of the Mean = 1.28797
+ Median = 56.5
+ Half-Range Mode = 9.5
+
+
+EXPLANATION:
+The "Mode" is the mean of the bootstrapped half-range modes (M-HRMB). The
+"Standard Error of the Mode" is a bootstrap standard error, calculated by
+taking the standard deviation of the bootstrapped mode estimates. During the
+error calculation, higher-level bootstrap iterations resample the original
+data, and lower-level bootstrap iterations treat each of those higher-level
+bootstrapped data sets as a starting point for lower-level resampling to
+calculate the individual M-HRMB estimates. The "95% confidence interval" range
+accounts for both symmetric and asymmetric distribution, as it specifies the
+range between the 2.5% and 97.5% bootstrap values generated.
+
+For application of this program, and for citation, refer to:
+Hedges, S. B. and P. Shah. 2003. Comparison of mode estimation methods and
+application in molecular clock analysis. BMC Bioinformatics 4:xx.
+
+------------------Data File: C:\Users\tut44220\AppData\Local\Temp\RtmpacP9eF\file20e98716135e4.txt----------------
+
+
+===== Entire dataset =====
+Datapoints = 4453
+Outer bootstrap iterations = 10
+Inner bootstrap iterations per outer sample = 500
+
+RESULTS:
+ Mode = 14.9867
+Bootstrap Std. Error of Modes = 1.84459
+95% Confidence Interval (range) = 13.813 - 16.84
+
+STATISTICS OF ORIGINAL DATA (for reference):
+ Mean = 86.4594
+ Standard Error of the Mean = 1.28797
+ Median = 56.5
+ Half-Range Mode = 9.5
+
+
+EXPLANATION:
+The "Mode" is the mean of the bootstrapped half-range modes (M-HRMB). The
+"Standard Error of the Mode" is a bootstrap standard error, calculated by
+taking the standard deviation of the bootstrapped mode estimates. During the
+error calculation, higher-level bootstrap iterations resample the original
+data, and lower-level bootstrap iterations treat each of those higher-level
+bootstrapped data sets as a starting point for lower-level resampling to
+calculate the individual M-HRMB estimates. The "95% confidence interval" range
+accounts for both symmetric and asymmetric distribution, as it specifies the
+range between the 2.5% and 97.5% bootstrap values generated.
+
+For application of this program, and for citation, refer to:
+Hedges, S. B. and P. Shah. 2003. Comparison of mode estimation methods and
+application in molecular clock analysis. BMC Bioinformatics 4:xx.
+
+------------------Data File: C:\Users\tut44220\AppData\Local\Temp\RtmpacP9eF\file20e983602620b.txt----------------
+
+
+===== Entire dataset =====
+Datapoints = 4453
+Outer bootstrap iterations = 10
+Inner bootstrap iterations per outer sample = 50
+
+RESULTS:
+ Mode = 15.063
+Bootstrap Std. Error of Modes = 1.20566
+95% Confidence Interval (range) = 14.09 - 17.17
+
+STATISTICS OF ORIGINAL DATA (for reference):
+ Mean = 86.4594
+ Standard Error of the Mean = 1.28797
+ Median = 56.5
+ Half-Range Mode = 9.5
+
+
+EXPLANATION:
+The "Mode" is the mean of the bootstrapped half-range modes (M-HRMB). The
+"Standard Error of the Mode" is a bootstrap standard error, calculated by
+taking the standard deviation of the bootstrapped mode estimates. During the
+error calculation, higher-level bootstrap iterations resample the original
+data, and lower-level bootstrap iterations treat each of those higher-level
+bootstrapped data sets as a starting point for lower-level resampling to
+calculate the individual M-HRMB estimates. The "95% confidence interval" range
+accounts for both symmetric and asymmetric distribution, as it specifies the
+range between the 2.5% and 97.5% bootstrap values generated.
+
+For application of this program, and for citation, refer to:
+Hedges, S. B. and P. Shah. 2003. Comparison of mode estimation methods and
+application in molecular clock analysis. BMC Bioinformatics 4:xx.
+
+------------------Data File: C:\Users\tut44220\AppData\Local\Temp\RtmpacP9eF\file20e982ee7f02.txt----------------
+
+
+===== Entire dataset =====
+Datapoints = 4453
+Outer bootstrap iterations = 10
+Inner bootstrap iterations per outer sample = 50
+
+RESULTS:
+ Mode = 14.797
+Bootstrap Std. Error of Modes = 2.66233
+95% Confidence Interval (range) = 12.03 - 19.57
+
+STATISTICS OF ORIGINAL DATA (for reference):
+ Mean = 86.4594
+ Standard Error of the Mean = 1.28797
+ Median = 56.5
+ Half-Range Mode = 9.5
+
+
+EXPLANATION:
+The "Mode" is the mean of the bootstrapped half-range modes (M-HRMB). The
+"Standard Error of the Mode" is a bootstrap standard error, calculated by
+taking the standard deviation of the bootstrapped mode estimates. During the
+error calculation, higher-level bootstrap iterations resample the original
+data, and lower-level bootstrap iterations treat each of those higher-level
+bootstrapped data sets as a starting point for lower-level resampling to
+calculate the individual M-HRMB estimates. The "95% confidence interval" range
+accounts for both symmetric and asymmetric distribution, as it specifies the
+range between the 2.5% and 97.5% bootstrap values generated.
+
+For application of this program, and for citation, refer to:
+Hedges, S. B. and P. Shah. 2003. Comparison of mode estimation methods and
+application in molecular clock analysis. BMC Bioinformatics 4:xx.
+
+------------------Data File: C:\Users\tut44220\AppData\Local\Temp\RtmpuEa32b\file22069a92af2.txt----------------
+
+
+===== Entire dataset =====
+Datapoints = 4657
+Outer bootstrap iterations = 100
+Inner bootstrap iterations per outer sample = 500
+
+RESULTS:
+ Mode = 11.3354
+Bootstrap Std. Error of Modes = 2.32755
+95% Confidence Interval (range) = 7.2 - 17.15
+
+STATISTICS OF ORIGINAL DATA (for reference):
+ Mean = 83.8266
+ Standard Error of the Mean = 1.25651
+ Median = 54.5
+ Half-Range Mode = 10.5
+
+
+EXPLANATION:
+The "Mode" is the mean of the bootstrapped half-range modes (M-HRMB). The
+"Standard Error of the Mode" is a bootstrap standard error, calculated by
+taking the standard deviation of the bootstrapped mode estimates. During the
+error calculation, higher-level bootstrap iterations resample the original
+data, and lower-level bootstrap iterations treat each of those higher-level
+bootstrapped data sets as a starting point for lower-level resampling to
+calculate the individual M-HRMB estimates. The "95% confidence interval" range
+accounts for both symmetric and asymmetric distribution, as it specifies the
+range between the 2.5% and 97.5% bootstrap values generated.
+
+For application of this program, and for citation, refer to:
+Hedges, S. B. and P. Shah. 2003. Comparison of mode estimation methods and
+application in molecular clock analysis. BMC Bioinformatics 4:xx.
+
+------------------Data File: C:\Users\tut44220\AppData\Local\Temp\RtmpuEa32b\file220413b71b3.txt----------------
+
+
+===== Entire dataset =====
+Datapoints = 8332
+Outer bootstrap iterations = 100
+Inner bootstrap iterations per outer sample = 500
+
+RESULTS:
+ Mode = 20.7909
+Bootstrap Std. Error of Modes = 2.16481
+95% Confidence Interval (range) = 16.556 - 25.117
+
+STATISTICS OF ORIGINAL DATA (for reference):
+ Mean = 101.694
+ Standard Error of the Mean = 1.12817
+ Median = 67.5
+ Half-Range Mode = 21.5
+
+
+EXPLANATION:
+The "Mode" is the mean of the bootstrapped half-range modes (M-HRMB). The
+"Standard Error of the Mode" is a bootstrap standard error, calculated by
+taking the standard deviation of the bootstrapped mode estimates. During the
+error calculation, higher-level bootstrap iterations resample the original
+data, and lower-level bootstrap iterations treat each of those higher-level
+bootstrapped data sets as a starting point for lower-level resampling to
+calculate the individual M-HRMB estimates. The "95% confidence interval" range
+accounts for both symmetric and asymmetric distribution, as it specifies the
+range between the 2.5% and 97.5% bootstrap values generated.
+
+For application of this program, and for citation, refer to:
+Hedges, S. B. and P. Shah. 2003. Comparison of mode estimation methods and
+application in molecular clock analysis. BMC Bioinformatics 4:xx.
+
+------------------Data File: C:\Users\tut44220\AppData\Local\Temp\RtmpuEa32b\file220579d505c.txt----------------
+
+
+===== Entire dataset =====
+Datapoints = 82281
+Outer bootstrap iterations = 100
+Inner bootstrap iterations per outer sample = 500
+
+RESULTS:
+ Mode = 20.5409
+Bootstrap Std. Error of Modes = 1.01669
+95% Confidence Interval (range) = 18.7585 - 22.3735
+
+STATISTICS OF ORIGINAL DATA (for reference):
+ Mean = 102.431
+ Standard Error of the Mean = 0.359563
+ Median = 68.65
+ Half-Range Mode = 20.2
+
+
+EXPLANATION:
+The "Mode" is the mean of the bootstrapped half-range modes (M-HRMB). The
+"Standard Error of the Mode" is a bootstrap standard error, calculated by
+taking the standard deviation of the bootstrapped mode estimates. During the
+error calculation, higher-level bootstrap iterations resample the original
+data, and lower-level bootstrap iterations treat each of those higher-level
+bootstrapped data sets as a starting point for lower-level resampling to
+calculate the individual M-HRMB estimates. The "95% confidence interval" range
+accounts for both symmetric and asymmetric distribution, as it specifies the
+range between the 2.5% and 97.5% bootstrap values generated.
+
+For application of this program, and for citation, refer to:
+Hedges, S. B. and P. Shah. 2003. Comparison of mode estimation methods and
+application in molecular clock analysis. BMC Bioinformatics 4:xx.
+
+------------------Data File: C:\Users\tut44220\AppData\Local\Temp\Rtmpa6AiaH\file1e544c661eef.txt----------------
+
+
+===== Entire dataset =====
+Datapoints = 45827
+Outer bootstrap iterations = 100
+Inner bootstrap iterations per outer sample = 500
+
+RESULTS:
+ Mode = 2.7822
+Bootstrap Std. Error of Modes = 0.401146
+95% Confidence Interval (range) = 1.8997 - 3.4916
+
+STATISTICS OF ORIGINAL DATA (for reference):
+ Mean = 58.0315
+ Standard Error of the Mean = 0.183767
+ Median = 53.35
+ Half-Range Mode = 2.75
+
+
+EXPLANATION:
+The "Mode" is the mean of the bootstrapped half-range modes (M-HRMB). The
+"Standard Error of the Mode" is a bootstrap standard error, calculated by
+taking the standard deviation of the bootstrapped mode estimates. During the
+error calculation, higher-level bootstrap iterations resample the original
+data, and lower-level bootstrap iterations treat each of those higher-level
+bootstrapped data sets as a starting point for lower-level resampling to
+calculate the individual M-HRMB estimates. The "95% confidence interval" range
+accounts for both symmetric and asymmetric distribution, as it specifies the
+range between the 2.5% and 97.5% bootstrap values generated.
+
+For application of this program, and for citation, refer to:
+Hedges, S. B. and P. Shah. 2003. Comparison of mode estimation methods and
+application in molecular clock analysis. BMC Bioinformatics 4:xx.
+
+------------------Data File: C:\Users\tut44220\AppData\Local\Temp\Rtmpa6AiaH\file1e545864684c.txt----------------
+
+
+===== Entire dataset =====
+Datapoints = 148682
+Outer bootstrap iterations = 100
+Inner bootstrap iterations per outer sample = 500
+
+RESULTS:
+ Mode = 59.0147
+Bootstrap Std. Error of Modes = 3.74691
+95% Confidence Interval (range) = 50.8837 - 64.6725
+
+STATISTICS OF ORIGINAL DATA (for reference):
+ Mean = 131.543
+ Standard Error of the Mean = 0.289586
+ Median = 96.35
+ Half-Range Mode = 64.9
+
+
+EXPLANATION:
+The "Mode" is the mean of the bootstrapped half-range modes (M-HRMB). The
+"Standard Error of the Mode" is a bootstrap standard error, calculated by
+taking the standard deviation of the bootstrapped mode estimates. During the
+error calculation, higher-level bootstrap iterations resample the original
+data, and lower-level bootstrap iterations treat each of those higher-level
+bootstrapped data sets as a starting point for lower-level resampling to
+calculate the individual M-HRMB estimates. The "95% confidence interval" range
+accounts for both symmetric and asymmetric distribution, as it specifies the
+range between the 2.5% and 97.5% bootstrap values generated.
+
+For application of this program, and for citation, refer to:
+Hedges, S. B. and P. Shah. 2003. Comparison of mode estimation methods and
+application in molecular clock analysis. BMC Bioinformatics 4:xx.
+
+------------------Data File: C:\Users\tut44220\AppData\Local\Temp\Rtmpa6AiaH\file1e5463c8603a.txt----------------
+
+
+===== Entire dataset =====
+Datapoints = 134250
+Outer bootstrap iterations = 100
+Inner bootstrap iterations per outer sample = 500
+
+RESULTS:
+ Mode = 48.4518
+Bootstrap Std. Error of Modes = 3.51035
+95% Confidence Interval (range) = 42.883 - 57.0615
+
+STATISTICS OF ORIGINAL DATA (for reference):
+ Mean = 120.156
+ Standard Error of the Mean = 0.287931
+ Median = 87.85
+ Half-Range Mode = 48
+
+
+EXPLANATION:
+The "Mode" is the mean of the bootstrapped half-range modes (M-HRMB). The
+"Standard Error of the Mode" is a bootstrap standard error, calculated by
+taking the standard deviation of the bootstrapped mode estimates. During the
+error calculation, higher-level bootstrap iterations resample the original
+data, and lower-level bootstrap iterations treat each of those higher-level
+bootstrapped data sets as a starting point for lower-level resampling to
+calculate the individual M-HRMB estimates. The "95% confidence interval" range
+accounts for both symmetric and asymmetric distribution, as it specifies the
+range between the 2.5% and 97.5% bootstrap values generated.
+
+For application of this program, and for citation, refer to:
+Hedges, S. B. and P. Shah. 2003. Comparison of mode estimation methods and
+application in molecular clock analysis. BMC Bioinformatics 4:xx.
+
+------------------Data File: C:\Users\tut44220\AppData\Local\Temp\Rtmpa6AiaH\file1e54649e4fd9.txt----------------
+
+
+===== Entire dataset =====
+Datapoints = 139989
+Outer bootstrap iterations = 100
+Inner bootstrap iterations per outer sample = 500
+
+RESULTS:
+ Mode = 53.2443
+Bootstrap Std. Error of Modes = 3.63897
+95% Confidence Interval (range) = 45.7092 - 59.7089
+
+STATISTICS OF ORIGINAL DATA (for reference):
+ Mean = 124.028
+ Standard Error of the Mean = 0.284354
+ Median = 90.75
+ Half-Range Mode = 54.7
+
+
+EXPLANATION:
+The "Mode" is the mean of the bootstrapped half-range modes (M-HRMB). The
+"Standard Error of the Mode" is a bootstrap standard error, calculated by
+taking the standard deviation of the bootstrapped mode estimates. During the
+error calculation, higher-level bootstrap iterations resample the original
+data, and lower-level bootstrap iterations treat each of those higher-level
+bootstrapped data sets as a starting point for lower-level resampling to
+calculate the individual M-HRMB estimates. The "95% confidence interval" range
+accounts for both symmetric and asymmetric distribution, as it specifies the
+range between the 2.5% and 97.5% bootstrap values generated.
+
+For application of this program, and for citation, refer to:
+Hedges, S. B. and P. Shah. 2003. Comparison of mode estimation methods and
+application in molecular clock analysis. BMC Bioinformatics 4:xx.
+
+------------------Data File: C:\Users\tut44220\AppData\Local\Temp\RtmpQfKfRF\file841850fcae1.txt----------------
+
+
+===== Entire dataset =====
+Datapoints = 78709
+Outer bootstrap iterations = 100
+Inner bootstrap iterations per outer sample = 500
+
+RESULTS:
+ Mode = 18.8779
+Bootstrap Std. Error of Modes = 0.912775
+95% Confidence Interval (range) = 17.3296 - 20.9075
+
+STATISTICS OF ORIGINAL DATA (for reference):
+ Mean = 99.7589
+ Standard Error of the Mean = 0.367012
+ Median = 65.95
+ Half-Range Mode = 17.1
+
+
+EXPLANATION:
+The "Mode" is the mean of the bootstrapped half-range modes (M-HRMB). The
+"Standard Error of the Mode" is a bootstrap standard error, calculated by
+taking the standard deviation of the bootstrapped mode estimates. During the
+error calculation, higher-level bootstrap iterations resample the original
+data, and lower-level bootstrap iterations treat each of those higher-level
+bootstrapped data sets as a starting point for lower-level resampling to
+calculate the individual M-HRMB estimates. The "95% confidence interval" range
+accounts for both symmetric and asymmetric distribution, as it specifies the
+range between the 2.5% and 97.5% bootstrap values generated.
+
+For application of this program, and for citation, refer to:
+Hedges, S. B. and P. Shah. 2003. Comparison of mode estimation methods and
+application in molecular clock analysis. BMC Bioinformatics 4:xx.
+
+------------------Data File: C:\Users\tut44220\AppData\Local\Temp\RtmpQfKfRF\file841820471ac1.txt----------------
+
+
+===== Entire dataset =====
+Datapoints = 76397
+Outer bootstrap iterations = 100
+Inner bootstrap iterations per outer sample = 500
+
+RESULTS:
+ Mode = 17.2316
+Bootstrap Std. Error of Modes = 1.71245
+95% Confidence Interval (range) = 14.1833 - 20.794
+
+STATISTICS OF ORIGINAL DATA (for reference):
+ Mean = 102.505
+ Standard Error of the Mean = 0.376995
+ Median = 66.55
+ Half-Range Mode = 20.2
+
+
+EXPLANATION:
+The "Mode" is the mean of the bootstrapped half-range modes (M-HRMB). The
+"Standard Error of the Mode" is a bootstrap standard error, calculated by
+taking the standard deviation of the bootstrapped mode estimates. During the
+error calculation, higher-level bootstrap iterations resample the original
+data, and lower-level bootstrap iterations treat each of those higher-level
+bootstrapped data sets as a starting point for lower-level resampling to
+calculate the individual M-HRMB estimates. The "95% confidence interval" range
+accounts for both symmetric and asymmetric distribution, as it specifies the
+range between the 2.5% and 97.5% bootstrap values generated.
+
+For application of this program, and for citation, refer to:
+Hedges, S. B. and P. Shah. 2003. Comparison of mode estimation methods and
+application in molecular clock analysis. BMC Bioinformatics 4:xx.
+
+------------------Data File: C:\Users\tut44220\AppData\Local\Temp\RtmpQfKfRF\file841864c82640.txt----------------
+
+
+===== Entire dataset =====
+Datapoints = 75139
+Outer bootstrap iterations = 100
+Inner bootstrap iterations per outer sample = 500
+
+RESULTS:
+ Mode = 20.5897
+Bootstrap Std. Error of Modes = 0.987312
+95% Confidence Interval (range) = 18.8799 - 22.8409
+
+STATISTICS OF ORIGINAL DATA (for reference):
+ Mean = 91.7552
+ Standard Error of the Mean = 0.322296
+ Median = 65.15
+ Half-Range Mode = 20.2
+
+
+EXPLANATION:
+The "Mode" is the mean of the bootstrapped half-range modes (M-HRMB). The
+"Standard Error of the Mode" is a bootstrap standard error, calculated by
+taking the standard deviation of the bootstrapped mode estimates. During the
+error calculation, higher-level bootstrap iterations resample the original
+data, and lower-level bootstrap iterations treat each of those higher-level
+bootstrapped data sets as a starting point for lower-level resampling to
+calculate the individual M-HRMB estimates. The "95% confidence interval" range
+accounts for both symmetric and asymmetric distribution, as it specifies the
+range between the 2.5% and 97.5% bootstrap values generated.
+
+For application of this program, and for citation, refer to:
+Hedges, S. B. and P. Shah. 2003. Comparison of mode estimation methods and
+application in molecular clock analysis. BMC Bioinformatics 4:xx.
+
+------------------Data File: C:\Users\tut44220\AppData\Local\Temp\RtmpQfKfRF\file84185a3c4ba5.txt----------------
+
+
+===== Entire dataset =====
+Datapoints = 78709
+Outer bootstrap iterations = 100
+Inner bootstrap iterations per outer sample = 500
+
+RESULTS:
+ Mode = 18.9252
+Bootstrap Std. Error of Modes = 0.982166
+95% Confidence Interval (range) = 17.1194 - 20.6743
+
+STATISTICS OF ORIGINAL DATA (for reference):
+ Mean = 99.7589
+ Standard Error of the Mean = 0.367012
+ Median = 65.95
+ Half-Range Mode = 17.1
+
+
+EXPLANATION:
+The "Mode" is the mean of the bootstrapped half-range modes (M-HRMB). The
+"Standard Error of the Mode" is a bootstrap standard error, calculated by
+taking the standard deviation of the bootstrapped mode estimates. During the
+error calculation, higher-level bootstrap iterations resample the original
+data, and lower-level bootstrap iterations treat each of those higher-level
+bootstrapped data sets as a starting point for lower-level resampling to
+calculate the individual M-HRMB estimates. The "95% confidence interval" range
+accounts for both symmetric and asymmetric distribution, as it specifies the
+range between the 2.5% and 97.5% bootstrap values generated.
+
+For application of this program, and for citation, refer to:
+Hedges, S. B. and P. Shah. 2003. Comparison of mode estimation methods and
+application in molecular clock analysis. BMC Bioinformatics 4:xx.
+
+------------------Data File: C:\Users\tut44220\AppData\Local\Temp\RtmpQfKfRF\file8418781da1.txt----------------
+
+
+===== Entire dataset =====
+Datapoints = 23003
+Outer bootstrap iterations = 100
+Inner bootstrap iterations per outer sample = 500
+
+RESULTS:
+ Mode = 6.96179
+Bootstrap Std. Error of Modes = 0.436821
+95% Confidence Interval (range) = 6.1642 - 7.9296
+
+STATISTICS OF ORIGINAL DATA (for reference):
+ Mean = 31.9004
+ Standard Error of the Mean = 0.171994
+ Median = 24.55
+ Half-Range Mode = 7.25
+
+
+EXPLANATION:
+The "Mode" is the mean of the bootstrapped half-range modes (M-HRMB). The
+"Standard Error of the Mode" is a bootstrap standard error, calculated by
+taking the standard deviation of the bootstrapped mode estimates. During the
+error calculation, higher-level bootstrap iterations resample the original
+data, and lower-level bootstrap iterations treat each of those higher-level
+bootstrapped data sets as a starting point for lower-level resampling to
+calculate the individual M-HRMB estimates. The "95% confidence interval" range
+accounts for both symmetric and asymmetric distribution, as it specifies the
+range between the 2.5% and 97.5% bootstrap values generated.
+
+For application of this program, and for citation, refer to:
+Hedges, S. B. and P. Shah. 2003. Comparison of mode estimation methods and
+application in molecular clock analysis. BMC Bioinformatics 4:xx.
+
+------------------Data File: C:\Users\tut44220\AppData\Local\Temp\Rtmpa6AiaH\file1e546f26624d.txt----------------
+
+
+===== Entire dataset =====
+Datapoints = 76397
+Outer bootstrap iterations = 1000
+Inner bootstrap iterations per outer sample = 1000
+
+RESULTS:
+ Mode = 17.1425
+Bootstrap Std. Error of Modes = 1.53253
+95% Confidence Interval (range) = 13.8674 - 19.8864
+
+STATISTICS OF ORIGINAL DATA (for reference):
+ Mean = 102.505
+ Standard Error of the Mean = 0.376995
+ Median = 66.55
+ Half-Range Mode = 20.2
+
+
+EXPLANATION:
+The "Mode" is the mean of the bootstrapped half-range modes (M-HRMB). The
+"Standard Error of the Mode" is a bootstrap standard error, calculated by
+taking the standard deviation of the bootstrapped mode estimates. During the
+error calculation, higher-level bootstrap iterations resample the original
+data, and lower-level bootstrap iterations treat each of those higher-level
+bootstrapped data sets as a starting point for lower-level resampling to
+calculate the individual M-HRMB estimates. The "95% confidence interval" range
+accounts for both symmetric and asymmetric distribution, as it specifies the
+range between the 2.5% and 97.5% bootstrap values generated.
+
+For application of this program, and for citation, refer to:
+Hedges, S. B. and P. Shah. 2003. Comparison of mode estimation methods and
+application in molecular clock analysis. BMC Bioinformatics 4:xx.
+
+------------------Data File: C:\Users\tut44220\AppData\Local\Temp\Rtmpa6AiaH\file1e5458a830b0.txt----------------
+
+
+===== Entire dataset =====
+Datapoints = 75139
+Outer bootstrap iterations = 1000
+Inner bootstrap iterations per outer sample = 1000
+
+RESULTS:
+ Mode = 20.4753
+Bootstrap Std. Error of Modes = 0.997232
+95% Confidence Interval (range) = 18.3877 - 22.3384
+
+STATISTICS OF ORIGINAL DATA (for reference):
+ Mean = 91.7552
+ Standard Error of the Mean = 0.322296
+ Median = 65.15
+ Half-Range Mode = 20.2
+
+
+EXPLANATION:
+The "Mode" is the mean of the bootstrapped half-range modes (M-HRMB). The
+"Standard Error of the Mode" is a bootstrap standard error, calculated by
+taking the standard deviation of the bootstrapped mode estimates. During the
+error calculation, higher-level bootstrap iterations resample the original
+data, and lower-level bootstrap iterations treat each of those higher-level
+bootstrapped data sets as a starting point for lower-level resampling to
+calculate the individual M-HRMB estimates. The "95% confidence interval" range
+accounts for both symmetric and asymmetric distribution, as it specifies the
+range between the 2.5% and 97.5% bootstrap values generated.
+
+For application of this program, and for citation, refer to:
+Hedges, S. B. and P. Shah. 2003. Comparison of mode estimation methods and
+application in molecular clock analysis. BMC Bioinformatics 4:xx.
+
+------------------Data File: C:\Users\tut44220\AppData\Local\Temp\Rtmpgzcj4I\file60944b7c6fca.txt----------------
+
+
+===== Entire dataset =====
+Datapoints = 82281
+Outer bootstrap iterations = 1000
+Inner bootstrap iterations per outer sample = 1000
+
+RESULTS:
+ Mode = 20.6786
+Bootstrap Std. Error of Modes = 0.945881
+95% Confidence Interval (range) = 18.8391 - 22.4798
+
+STATISTICS OF ORIGINAL DATA (for reference):
+ Mean = 102.431
+ Standard Error of the Mean = 0.359563
+ Median = 68.65
+ Half-Range Mode = 20.2
+
+
+EXPLANATION:
+The "Mode" is the mean of the bootstrapped half-range modes (M-HRMB). The
+"Standard Error of the Mode" is a bootstrap standard error, calculated by
+taking the standard deviation of the bootstrapped mode estimates. During the
+error calculation, higher-level bootstrap iterations resample the original
+data, and lower-level bootstrap iterations treat each of those higher-level
+bootstrapped data sets as a starting point for lower-level resampling to
+calculate the individual M-HRMB estimates. The "95% confidence interval" range
+accounts for both symmetric and asymmetric distribution, as it specifies the
+range between the 2.5% and 97.5% bootstrap values generated.
+
+For application of this program, and for citation, refer to:
+Hedges, S. B. and P. Shah. 2003. Comparison of mode estimation methods and
+application in molecular clock analysis. BMC Bioinformatics 4:xx.
+
+------------------Data File: C:\Users\tut44220\AppData\Local\Temp\Rtmpgzcj4I\file60945ebf23ed.txt----------------
+
+
+===== Entire dataset =====
+Datapoints = 78709
+Outer bootstrap iterations = 1000
+Inner bootstrap iterations per outer sample = 1000
+
+RESULTS:
+ Mode = 18.8503
+Bootstrap Std. Error of Modes = 0.948335
+95% Confidence Interval (range) = 17.1083 - 20.7391
+
+STATISTICS OF ORIGINAL DATA (for reference):
+ Mean = 99.7589
+ Standard Error of the Mean = 0.367012
+ Median = 65.95
+ Half-Range Mode = 17.1
+
+
+EXPLANATION:
+The "Mode" is the mean of the bootstrapped half-range modes (M-HRMB). The
+"Standard Error of the Mode" is a bootstrap standard error, calculated by
+taking the standard deviation of the bootstrapped mode estimates. During the
+error calculation, higher-level bootstrap iterations resample the original
+data, and lower-level bootstrap iterations treat each of those higher-level
+bootstrapped data sets as a starting point for lower-level resampling to
+calculate the individual M-HRMB estimates. The "95% confidence interval" range
+accounts for both symmetric and asymmetric distribution, as it specifies the
+range between the 2.5% and 97.5% bootstrap values generated.
+
+For application of this program, and for citation, refer to:
+Hedges, S. B. and P. Shah. 2003. Comparison of mode estimation methods and
+application in molecular clock analysis. BMC Bioinformatics 4:xx.
+
+------------------Data File: C:\Users\tut44220\AppData\Local\Temp\RtmpA1KWL9\file63b077484e41.txt----------------
+
+
+===== Entire dataset =====
+Datapoints = 78709
+Outer bootstrap iterations = 1000
+Inner bootstrap iterations per outer sample = 1000
+
+RESULTS:
+ Mode = 18.9356
+Bootstrap Std. Error of Modes = 1.03363
+95% Confidence Interval (range) = 17.1197 - 21.0165
+
+STATISTICS OF ORIGINAL DATA (for reference):
+ Mean = 99.7589
+ Standard Error of the Mean = 0.367012
+ Median = 65.95
+ Half-Range Mode = 17.1
+
+
+EXPLANATION:
+The "Mode" is the mean of the bootstrapped half-range modes (M-HRMB). The
+"Standard Error of the Mode" is a bootstrap standard error, calculated by
+taking the standard deviation of the bootstrapped mode estimates. During the
+error calculation, higher-level bootstrap iterations resample the original
+data, and lower-level bootstrap iterations treat each of those higher-level
+bootstrapped data sets as a starting point for lower-level resampling to
+calculate the individual M-HRMB estimates. The "95% confidence interval" range
+accounts for both symmetric and asymmetric distribution, as it specifies the
+range between the 2.5% and 97.5% bootstrap values generated.
+
+For application of this program, and for citation, refer to:
+Hedges, S. B. and P. Shah. 2003. Comparison of mode estimation methods and
+application in molecular clock analysis. BMC Bioinformatics 4:xx.
+
+------------------Data File: C:\Users\tut44220\AppData\Local\Temp\RtmpumZ1V0\filed505df65671.txt----------------
+
+
+===== Entire dataset =====
+Datapoints = 148682
+Outer bootstrap iterations = 1000
+Inner bootstrap iterations per outer sample = 1000
+
+RESULTS:
+ Mode = 59.6112
+Bootstrap Std. Error of Modes = 3.93876
+95% Confidence Interval (range) = 50.7962 - 66.0292
+
+STATISTICS OF ORIGINAL DATA (for reference):
+ Mean = 131.543
+ Standard Error of the Mean = 0.289586
+ Median = 96.35
+ Half-Range Mode = 64.9
+
+
+EXPLANATION:
+The "Mode" is the mean of the bootstrapped half-range modes (M-HRMB). The
+"Standard Error of the Mode" is a bootstrap standard error, calculated by
+taking the standard deviation of the bootstrapped mode estimates. During the
+error calculation, higher-level bootstrap iterations resample the original
+data, and lower-level bootstrap iterations treat each of those higher-level
+bootstrapped data sets as a starting point for lower-level resampling to
+calculate the individual M-HRMB estimates. The "95% confidence interval" range
+accounts for both symmetric and asymmetric distribution, as it specifies the
+range between the 2.5% and 97.5% bootstrap values generated.
+
+For application of this program, and for citation, refer to:
+Hedges, S. B. and P. Shah. 2003. Comparison of mode estimation methods and
+application in molecular clock analysis. BMC Bioinformatics 4:xx.
+
+------------------Data File: C:\Users\tut44220\AppData\Local\Temp\RtmpQrRbZ7\file47bc26e873f1.txt----------------
+
+
+===== Entire dataset =====
+Datapoints = 148682
+Outer bootstrap iterations = 1000
+Inner bootstrap iterations per outer sample = 1000
+
+RESULTS:
+ Mode = 59.7006
+Bootstrap Std. Error of Modes = 4.16584
+95% Confidence Interval (range) = 49.9785 - 66.8535
+
+STATISTICS OF ORIGINAL DATA (for reference):
+ Mean = 131.543
+ Standard Error of the Mean = 0.289586
+ Median = 96.35
+ Half-Range Mode = 64.9
+
+
+EXPLANATION:
+The "Mode" is the mean of the bootstrapped half-range modes (M-HRMB). The
+"Standard Error of the Mode" is a bootstrap standard error, calculated by
+taking the standard deviation of the bootstrapped mode estimates. During the
+error calculation, higher-level bootstrap iterations resample the original
+data, and lower-level bootstrap iterations treat each of those higher-level
+bootstrapped data sets as a starting point for lower-level resampling to
+calculate the individual M-HRMB estimates. The "95% confidence interval" range
+accounts for both symmetric and asymmetric distribution, as it specifies the
+range between the 2.5% and 97.5% bootstrap values generated.
+
+For application of this program, and for citation, refer to:
+Hedges, S. B. and P. Shah. 2003. Comparison of mode estimation methods and
+application in molecular clock analysis. BMC Bioinformatics 4:xx.
+
+------------------Data File: C:\Users\tut44220\AppData\Local\Temp\RtmpQrRbZ7\file47bc71b57cf4.txt----------------
+
+
+===== Entire dataset =====
+Datapoints = 139989
+Outer bootstrap iterations = 1000
+Inner bootstrap iterations per outer sample = 500
+
+RESULTS:
+ Mode = 54.3207
+Bootstrap Std. Error of Modes = 3.58469
+95% Confidence Interval (range) = 45.5354 - 60.2438
+
+STATISTICS OF ORIGINAL DATA (for reference):
+ Mean = 124.028
+ Standard Error of the Mean = 0.284354
+ Median = 90.75
+ Half-Range Mode = 54.7
+
+
+EXPLANATION:
+The "Mode" is the mean of the bootstrapped half-range modes (M-HRMB). The
+"Standard Error of the Mode" is a bootstrap standard error, calculated by
+taking the standard deviation of the bootstrapped mode estimates. During the
+error calculation, higher-level bootstrap iterations resample the original
+data, and lower-level bootstrap iterations treat each of those higher-level
+bootstrapped data sets as a starting point for lower-level resampling to
+calculate the individual M-HRMB estimates. The "95% confidence interval" range
+accounts for both symmetric and asymmetric distribution, as it specifies the
+range between the 2.5% and 97.5% bootstrap values generated.
+
+For application of this program, and for citation, refer to:
+Hedges, S. B. and P. Shah. 2003. Comparison of mode estimation methods and
+application in molecular clock analysis. BMC Bioinformatics 4:xx.
+
+------------------Data File: C:\Users\tut44220\AppData\Local\Temp\RtmpQrRbZ7\file47bc7d5c3cae.txt----------------
+
+
+===== Entire dataset =====
+Datapoints = 139989
+Outer bootstrap iterations = 1000
+Inner bootstrap iterations per outer sample = 1000
+
+RESULTS:
+ Mode = 54.2252
+Bootstrap Std. Error of Modes = 3.67301
+95% Confidence Interval (range) = 45.9213 - 59.8593
+
+STATISTICS OF ORIGINAL DATA (for reference):
+ Mean = 124.028
+ Standard Error of the Mean = 0.284354
+ Median = 90.75
+ Half-Range Mode = 54.7
+
+
+EXPLANATION:
+The "Mode" is the mean of the bootstrapped half-range modes (M-HRMB). The
+"Standard Error of the Mode" is a bootstrap standard error, calculated by
+taking the standard deviation of the bootstrapped mode estimates. During the
+error calculation, higher-level bootstrap iterations resample the original
+data, and lower-level bootstrap iterations treat each of those higher-level
+bootstrapped data sets as a starting point for lower-level resampling to
+calculate the individual M-HRMB estimates. The "95% confidence interval" range
+accounts for both symmetric and asymmetric distribution, as it specifies the
+range between the 2.5% and 97.5% bootstrap values generated.
+
+For application of this program, and for citation, refer to:
+Hedges, S. B. and P. Shah. 2003. Comparison of mode estimation methods and
+application in molecular clock analysis. BMC Bioinformatics 4:xx.
+
+------------------Data File: C:\Users\tut44220\AppData\Local\Temp\RtmpQrRbZ7\file47bc4be1c34.txt----------------
+
+
+===== Entire dataset =====
+Datapoints = 8043
+Outer bootstrap iterations = 1000
+Inner bootstrap iterations per outer sample = 1000
+
+RESULTS:
+ Mode = 2.1028
+Bootstrap Std. Error of Modes = 0.223816
+95% Confidence Interval (range) = 1.705 - 2.6014
+
+STATISTICS OF ORIGINAL DATA (for reference):
+ Mean = 5.54363
+ Standard Error of the Mean = 0.0508643
+ Median = 4.35
+ Half-Range Mode = 1.65
+
+
+EXPLANATION:
+The "Mode" is the mean of the bootstrapped half-range modes (M-HRMB). The
+"Standard Error of the Mode" is a bootstrap standard error, calculated by
+taking the standard deviation of the bootstrapped mode estimates. During the
+error calculation, higher-level bootstrap iterations resample the original
+data, and lower-level bootstrap iterations treat each of those higher-level
+bootstrapped data sets as a starting point for lower-level resampling to
+calculate the individual M-HRMB estimates. The "95% confidence interval" range
+accounts for both symmetric and asymmetric distribution, as it specifies the
+range between the 2.5% and 97.5% bootstrap values generated.
+
+For application of this program, and for citation, refer to:
+Hedges, S. B. and P. Shah. 2003. Comparison of mode estimation methods and
+application in molecular clock analysis. BMC Bioinformatics 4:xx.
+
